@@ -1,0 +1,5 @@
+vehicles = ["toyota", "honda", "ford"]
+color_type = "white"
+print(vehicles)
+print(vehicles[1])
+print(color_type)
